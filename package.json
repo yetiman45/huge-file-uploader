@@ -11,5 +11,10 @@
     "multer": "^1.4.5"
   },
   "author": "Dipin Niroula",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yetiman45/huge-file-uploader/issues"
+  },
+  "homepage": "https://github.com/yetiman45/huge-file-uploader#readme"
+
 }
